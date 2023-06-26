@@ -1,0 +1,18 @@
+[submodule "SlowFast"]
+	path = third_party/SlowFast
+	url = git@github.com:facebookresearch/SlowFast.git
+[submodule "revisiting-at"]
+	path = third_party/revisiting-at
+	url = git@github.com:nmndeep/revisiting-at.git
+[submodule "dinov2"]
+	path = third_party/dinov2
+	url = https://github.com/facebookresearch/dinov2.git
+[submodule "mae"]
+	path = third_party/mae
+	url = https://github.com/facebookresearch/mae.git
+[submodule "third_party/MNG_AC"]
+	path = third_party/MNG_AC
+	url = https://github.com/divyam3897/MNG_AC.git
+[submodule "third_party/auto-attack"]
+	path = third_party/auto-attack
+	url = https://github.com/fra31/auto-attack.git

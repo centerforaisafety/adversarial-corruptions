@@ -1,0 +1,13 @@
+# Requires Python 3.10.9
+jsonlines==3.1.0
+matplotlib==3.7.0
+numpy==1.23.5
+robustness==1.2.1.post2
+scipy==1.10.1
+timm==0.8.11.dev0
+torch==1.13.1
+torchvision==0.14.1
+torchmetrics==0.11.4
+omegaconf==2.3.0
+simplejson==3.19.1
+opencv-python==4.7.0.72
