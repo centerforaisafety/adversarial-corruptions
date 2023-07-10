@@ -3,7 +3,7 @@
 This repository contains code for evaluating the robustness of image classifiers to a a variety of unforeseen adversaries, as presented in the forthcoming paper *Testing Robustness Against Unforeseen Adversaries*.
 
 <div align="center">
-  <img src="./images/unforeseen_attacks_sample.png" width="480">
+  <img src="./images/teaser.png" width="480">
 <p align="center">Samples of the unforeseen attacks</p>
 </div>
 
