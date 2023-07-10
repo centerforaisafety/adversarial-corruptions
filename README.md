@@ -1,6 +1,6 @@
 # Testing Robustness Against Unforeseen Adversaries <!-- omit from toc -->
 
-This repository contains code for evaluating the robustness of image classifiers to a a variety of unforeseen adversaries, as presented in the forthcoming paper *Testing Robustness Against Unforeseen Adversaries*.
+This repository contains code for evaluating the robustness of image classifiers to a a variety of unforeseen adversaries, as presented in the forthcoming paper *Testing Robustness Against Unforeseen Adversaries*. (The code is for the updated version of the paper at https://arxiv.org/abs/1908.08016, and the code for the old version is at https://github.com/ddkang/advex-uar.)
 
 <div align="center">
   <img src="./images/teaser.png" width="480">
