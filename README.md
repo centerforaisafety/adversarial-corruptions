@@ -1,6 +1,6 @@
 # Testing Robustness Against Unforeseen Adversaries <!-- omit from toc -->
 
-This repository contains code for evaluating the robustness of image classifiers to a a variety of unforeseen adversaries, as presented in the forthcoming paper *Testing Robustness Against Unforeseen Adversaries*. (The code is for the updated version of the paper at https://arxiv.org/abs/1908.08016, and the code for the old version is at https://github.com/ddkang/advex-uar.)
+This repository contains code for evaluating the robustness of image classifiers to a a variety of unforeseen adversaries, as presented in the forthcoming paper [*Testing Robustness Against Unforeseen Adversaries*](https://arxiv.org/abs/1908.08016). (This repository contains code for the updated version of ImageNet-UA. The code for the original version is at https://github.com/ddkang/advex-uar.)
 
 <div align="center">
   <img src="./images/teaser.png" width="480">
@@ -237,4 +237,13 @@ After these modifications, run `bash eval.sh imagenet` or `bash eval.sh cifar10`
 
 ## Citation
 
-Arxiv link coming soon.
+```
+@article{kaufmann2023testing,
+      title={Testing Robustness Against Unforeseen Adversaries}, 
+      author={Max Kaufmann and Daniel Kang and Yi Sun and Steven Basart and Xuwang Yin and Mantas Mazeika and Akul Arora and Adam Dziedzic and Franziska Boenisch and Tom Brown and Jacob Steinhardt and Dan Hendrycks},
+      year={2023},
+      eprint={1908.08016},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
